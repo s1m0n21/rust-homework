@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "traffic_light",
+    "integer_set_sum",
+    "compute_area"
+]
